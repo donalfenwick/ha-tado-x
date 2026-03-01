@@ -323,6 +323,14 @@
           "away": "Away",
           "auto": "Auto (Geofencing)"
         }
+      },
+      "dhw_mode": {
+        "name": "Hot Water Mode",
+        "state": {
+          "OFF": "Off",
+          "SCHEDULE": "Schedule",
+          "BOOST": "Boost"
+        }
       }
     },
     "device_tracker": {
